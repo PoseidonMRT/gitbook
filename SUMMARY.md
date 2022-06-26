@@ -154,9 +154,9 @@
 
 - 20-面试题集锦
 
-  * [20.1-主线程Looper#while#true循环为什么不会ANR](20-面试题集锦/20.1-主线程Looper#while#true循环为什么不会ANR.md)
+  * [20.1-主线程while循环为什么不会ANR](20-面试题集锦/20.1-主线程while循环为什么不会ANR.md)
   * [20.2-Activity创建过程中为什么使用Socket与Zygote通信而不用Binder](20-面试题集锦/20.2-Activity创建过程中为什么使用Socket与Zygote通信而不用Binder.md)
-  * [20.3-Handler#postDelayed时间是否准确](20-面试题集锦/20.3-Handler#postDelayed时间是否准确.md)
+  * [20.3-Handler postDelayed时间是否准确](20-面试题集锦/20.3-Handler postDelayed时间是否准确.md)
   * [20.4-MessageQueue是队列吗？](20-面试题集锦/20.4-MessageQueue是队列吗？.md)
   * [20.5-ThreadLocal是什么？有什么用以及特点](20-面试题集锦/20.5-ThreadLocal是什么？有什么用以及特点.md)
 
